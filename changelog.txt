@@ -1,0 +1,10 @@
+*** Shelfy Mobile Commerce Platform Changelog ***
+
+2023-04-05 - version 1.0.10
+* Added support for Shelfy Discounts on checkout
+2022-08-08 - version 1.0.1
+* Internal bugfixes and improvments
+2022-08-04 - version 1.0.0
+* Initial release
+2023-05-08
+* Added support for smart-banners
